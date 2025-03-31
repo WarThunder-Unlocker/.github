@@ -1,6 +1,6 @@
 # 🚀 WarThunder Unlocker: Test Drive & Multi-Nation Vehicle Access 🎮  
 
-**WarThunder Unlocker** gives you **unrestricted access to all vehicles** instantly. Bypass progression requirements to unlock premium tanks, jets, and ships for test drives [[2]]. Skip grinding and dominate battles with high-tier gear like rank 6-8 jets without meeting unlock conditions [[6]]. Works seamlessly on air/land/sea modes.  
+**WarThunder Unlocker** gives you **unrestricted access to all vehicles** instantly. Bypass progression requirements to unlock premium tanks, jets, and ships for test drives. Skip grinding and dominate battles with high-tier gear like rank 6-8 jets without meeting unlock conditions. Works seamlessly on air/land/sea modes.  
 
 ---
 
@@ -11,15 +11,15 @@
 
 ### 🎯 Key Features  
 - **Instant Test Drive Access**: Unlock all vehicles with full modifications ⚡.  
-- **Multi-Nation Progression**: Unlock Israeli vehicles via US/USSR/GB/France branches [[3]].  
-- **BattlEye Bypass**: Evades detection for smooth gameplay [[1]].  
-- **No Grind Required**: Skip prerequisites for rank 6-8 jets [[6]].  
+- **Multi-Nation Progression**: Unlock Israeli vehicles via US/USSR/GB/France branches.  
+- **BattlEye Bypass**: Evades detection for smooth gameplay.  
+- **No Grind Required**: Skip prerequisites for rank 6-8 jets.  
 - **All Modes Supported**: Air, land, and sea battles.  
 
 ---
 
 ### 💡 Why Choose WarThunder Unlocker?  
-- **Official Forum-Backed**: Based on unlocking guidelines from War Thunder’s official community [[1]][[3]].  
+- **Official Forum-Backed**: Based on unlocking guidelines from War Thunder’s official community.  
 - **Constant Updates**: Patches to counter BattlEye’s latest updates.  
 - **User-Friendly**: One-click setup, no coding skills needed.  
 - **Elite Community**: Trusted by top players worldwide.  
@@ -29,7 +29,7 @@
 ### 🌟 Why Use It?  
 - **Save Time**: Access high-tier gear instantly instead of grinding.  
 - **Stay Undetected**: Bypass BattlEye with advanced stealth protocols.  
-- **Outplay Opponents**: Test high-rank jets (rank 6-8) without meeting requirements [[6]].  
+- **Outplay Opponents**: Test high-rank jets (rank 6-8) without meeting requirements.  
 
 ---
 
